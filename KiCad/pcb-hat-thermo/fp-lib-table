@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pcb-hat-lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/pcb-hat-lib.pretty")(options "")(descr ""))
+)
